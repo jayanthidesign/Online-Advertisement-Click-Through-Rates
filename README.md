@@ -43,7 +43,7 @@ Data Model: This project uses a single-table dataset, so data model remains simp
 Calculated Columns & DAX Measures: Implemented DAX formulas for key metrics such as Total clicks, Total Impressions, Average CTR, Total conversion rate.
 
 
- # Insights & Conclusions
+ # Insights:
 
 Key Findings: 
 
