@@ -1,12 +1,12 @@
 # ONLINE ADVERTISEMENT CLICK-THROUGH RATES
 
-# Project Overview and Objective
+# Project Overview and Objective:
 
 This project focuses on analyzing user engagement with online advertisements using demographic data, ad-related attributes, click behavior, click time, and click-through rates (CTR).
 
 The main objective of this project is to analyze the factors that impact advertisement click-through performance and provide insights to optimize online ad strategies.
 
-# Data Sources 
+# Data Sources:
 
 Source Description and Timeline: Mendeley Data and 2024.
 
@@ -14,17 +14,12 @@ Domain: Digital Marketing Analytics/Online Advertising/User Behavior.
 
 
 
-# Tools & Technologies
+# Tools & Technologies:
 
-Excel: Data cleaning, transformation, and Pivot Tables.
+Excel & Power BI
 
-Power BI: Data modelling, DAX calculations, visualization, and interactive dashboard creation.
 
-# Data Pre-Processing (Excel / Power Query)
-
-Tasks Performed:
-
-Data Cleaning & Transformation: 
+# Data Cleaning & Transformation: 
 
 The Click Time column carries same value in every row; it doesn’t provide any useful information for analysis. 
 
@@ -45,8 +40,6 @@ Calculated Columns & DAX Measures: Implemented DAX formulas for key metrics such
 
  # Insights:
 
-Key Findings: 
-
 Total Impressions: 1.18M
 
 Total Clicks: 49K
@@ -60,7 +53,7 @@ Highest clicks from 30–45 age group (191 clicks)
 Very low engagement from Above 65 (9 clicks)
 
 
-# Conclusions 
+# Recommendations:
 
    The online advertisement campaign performed well with a 5.10% average CTR, showing that users aged 30–45 are the most responsive, males click slightly more than females, social media and search engine placements generate the highest engagement, finance and technology topics perform best, and ads are least effective for users below 15 and above 65.
       
